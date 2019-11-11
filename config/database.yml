@@ -25,4 +25,4 @@ production:
   port: 5432
   database: aularuby
   user: rootruby2
-  password: 123
+  password: "123"
